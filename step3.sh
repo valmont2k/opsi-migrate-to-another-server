@@ -1,0 +1,1 @@
+/usr/bin/opsi-admin -d -S method productOnClient_getObjects > packets.txt

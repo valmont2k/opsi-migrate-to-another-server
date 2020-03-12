@@ -1,0 +1,1 @@
+/usr/bin/opsi-admin -d -S method host_getObjects > clients.txt
