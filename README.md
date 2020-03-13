@@ -85,6 +85,7 @@ what to do:
 10) run step6.sh
 11) move command1.sh file to new server and run it
 12) move command2.sh file to new server and run it
+13)  change on old opsi server opsi url all clients to new(showing new server)
 
 it's all!
 
